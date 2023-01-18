@@ -1,7 +1,7 @@
 ## Eai, pode me chamar de Nick!
 
 
-• 🌱 Atualmente estou estudando C, C++, HTML, CSS, Python e JavaScript
+• 🌱 Atualmente estou estudando HTML, CSS, Python e JavaScript
 
 • 🕸  Com grandes poderes, vem grandes responsabilidades
 
