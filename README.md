@@ -1,7 +1,7 @@
 ## Eai, pode me chamar de Nick!
 
 
-• 🌱 Atualmente estou estudando HTML, CSS, JavaScript e Python
+• 🌱 Atualmente estudando Kotlin e Python
 
 • 🕸  Com grandes poderes, vem grandes responsabilidades
 
@@ -14,11 +14,13 @@
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Js" height="30" width="40" src="<i class="devicon-kotlin-plain-wordmark colored"></i>
-">
+  <img align="center" alt="Nick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></i>
+  
+  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ 
   <img align="right" alt="Spider-Man" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758160733523148831/1056413966525542491/Homem_Aranha_Vs_Homem_Formiga.gif">
 </div>
 
