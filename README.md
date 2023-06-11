@@ -20,6 +20,8 @@
 
   <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  
+  <img align="center" alt="Nick-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  
   <img align="right" alt="Spider-Man" height="200" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/758160733523148831/1056413966525542491/Homem_Aranha_Vs_Homem_Formiga.gif">
 </div>
