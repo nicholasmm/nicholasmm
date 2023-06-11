@@ -1,7 +1,7 @@
 ## Eai, pode me chamar de Nick!
 
 
-• 🌱 Atualmente estudando Kotlin e Python
+• 🌱 Atualmente estudando Kotlin, Python e JavaScript
 
 • 🕸  Com grandes poderes, vem grandes responsabilidades
 
