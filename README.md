@@ -29,4 +29,5 @@
 <div>
   <a href ="mailto:nicholasmartinsmonteiro7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/nicholas-monteiro-a6ab36219/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"/></a> 
+   <a href=""C:\Users\nicho\Downloads\cv.png"" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=black" target="_blank"/></a> 
 </div>
