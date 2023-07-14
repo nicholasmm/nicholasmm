@@ -1,7 +1,7 @@
 ## Eai, pode me chamar de Nick!
 
 
-• 🌱 Atualmente estudando Kotlin, Python e JavaScript
+• 🌱 Atualmente estudando Flutter, Python e JavaScript
 
 • 🕸  Com grandes poderes, vem grandes responsabilidades
 
@@ -14,7 +14,7 @@
   
   </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Nick-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"></i>
+  <img align="center" alt="Nick-Flutter" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"></i>
   
   <img align="center" alt="Nick-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
