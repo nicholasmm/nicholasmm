@@ -1,9 +1,9 @@
 ## Eai, pode me chamar de Nick!
 
 
-• 🌱 Atualmente estudando Flutter, Python e JavaScript
+• 🌱 Currently studying Cypress, Postman and Quality Assurance in general
 
-• 🕸  Com grandes poderes, vem grandes responsabilidades
+• 🕸  With great power comes great responsibility
 
 
 <div align="start">
